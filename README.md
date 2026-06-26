@@ -178,7 +178,7 @@ Zero changes to the model architecture, inference pipeline, or application logic
 
 ## Author
 
-**Ahmed Fawzy**
+**Mohamed Fawzy**
 AI Engineer | Deep Learning Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
