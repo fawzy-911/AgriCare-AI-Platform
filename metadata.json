@@ -1,0 +1,6 @@
+{
+  "name": "AgriCare AI Platform",
+  "description": "AI-Powered Plant Disease Diagnosis & Treatment Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
